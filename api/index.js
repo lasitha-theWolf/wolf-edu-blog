@@ -11,7 +11,7 @@ mongoose.connect(process.env.MONGO)
         console.log(err);
     })
 
-//mongodb+srv://lasitha:dlpodlasitha9618*@wolf-blog.dgbu0pk.mongodb.net/  oken psse kamahti namak dapn
+//mongodb+srv://lasitha:@wolf-blog.dgbu0pk.mongodb.net/  oken psse kamahti namak dapn
 
 const app = express();
 
